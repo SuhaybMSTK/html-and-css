@@ -1,0 +1,22 @@
+.save-button {
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(62, 62, 187);
+    background-color: rgba(0, 0, 0, 0);
+    transition: 0.3s;
+    cursor: pointer;
+    width: 72px;
+    height: 36px;
+
+    border-color: rgb(62, 62, 187);
+    border-radius: 18px;
+    border-width: 1.3px;
+}
+
+.save-button:hover {
+    background-color: rgba(0, 0, 0, 0.15);
+}
+
+.save-button:active {
+    background-color: rgba(0, 0, 0, 0.30);
+}
